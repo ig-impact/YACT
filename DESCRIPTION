@@ -1,5 +1,5 @@
 Package: YACT
-Title: Yet Anothr Cleaning Template for IMPACT Initiatives
+Title: Yet Another Cleaning Template for IMPACT Initiatives
 Version: 0.0.0.9000
 Authors@R: c(
     person("Iyed", "Ghedamsi", , "iyed.ghedamsi@impact-initiatives.org", role = c("cre", "aut")),
