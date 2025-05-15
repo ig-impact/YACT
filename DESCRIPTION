@@ -1,0 +1,20 @@
+Package: YACT
+Title: Yet Anothr Cleaning Template for IMPACT Initiatives
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Iyed", "Ghedamsi", , "iyed.ghedamsi@impact-initiatives.org", role = c("cre", "aut")),
+    person("IMPACT Initiatives", role = "cph")
+  )
+Description: Provides an end-to-end pipeline for processing survey data,
+  specifically designed for data and analysis staff within IMPACT Initiatives.
+  This package utilizes the 'targets' framework to orchestrate and integrate
+  various data cleaning, composition, and analysis tools that are currently
+  available across different R packages developed by IMPACT. Its aim is to
+  streamline and standardize the workflow from raw survey data to analytical
+  outputs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    lifecycle
